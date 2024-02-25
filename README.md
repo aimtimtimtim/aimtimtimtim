@@ -1,8 +1,6 @@
-### Hi there 👋 Hi. I'm Tim.
+### 👋 Hi. I'm Tim.
 
-- 👨‍💻 I'm a Software Engineer
-- 💬 Ask me about JavaScript, Next.js, React, and TypeScript
-
+- 👨‍💻 Now I learn Front-End
 
 ## Skills
 
